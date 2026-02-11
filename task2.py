@@ -13,7 +13,7 @@ first = str(input())
 last = str(input())
 
 # birth
-birth = str(input())
+birth = int(input())
 
 # days
 days = int(input())
@@ -25,7 +25,7 @@ p_first = str(input())
 p_last = str(input())
 
 # phone
-phone = int(input())
+phone = str(input())
 
 # street
 street = str(input())
@@ -37,4 +37,4 @@ city = str(input())
 state = str(input())
 
 # zip_code
-zip = int(input())
+zip = str(input())
