@@ -13,7 +13,7 @@ first = str(input())
 last = str(input())
 
 # birth
-birth = str(input())
+birth = int(input())
 
 # days
 days = int(input())
